@@ -1,0 +1,9 @@
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\bin\Debug\Tarayıcı 1.0.exe.config
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\bin\Debug\Tarayıcı 1.0.exe
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\bin\Debug\Tarayıcı 1.0.pdb
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\obj\Debug\Tarayıcı 1.0.csprojResolveAssemblyReference.cache
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\obj\Debug\Tarayıcı_1._0.Form1.resources
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\obj\Debug\Tarayıcı_1._0.Properties.Resources.resources
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\obj\Debug\Tarayıcı 1.0.csproj.GenerateResource.Cache
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\obj\Debug\Tarayıcı 1.0.exe
+c:\users\enes-\documents\visual studio 2015\Projects\Tarayıcı 1.0\Tarayıcı 1.0\obj\Debug\Tarayıcı 1.0.pdb
